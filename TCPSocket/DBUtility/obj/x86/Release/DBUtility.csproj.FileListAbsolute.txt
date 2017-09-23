@@ -1,0 +1,5 @@
+F:\程序\环境监测中心\NCFileDownloadMonitor\DBUtility\bin\x86\Release\DBUtility.dll
+F:\程序\环境监测中心\NCFileDownloadMonitor\DBUtility\bin\x86\Release\DBUtility.pdb
+F:\程序\环境监测中心\NCFileDownloadMonitor\DBUtility\obj\x86\Release\ResolveAssemblyReference.cache
+F:\程序\环境监测中心\NCFileDownloadMonitor\DBUtility\obj\x86\Release\DBUtility.dll
+F:\程序\环境监测中心\NCFileDownloadMonitor\DBUtility\obj\x86\Release\DBUtility.pdb

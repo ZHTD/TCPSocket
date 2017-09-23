@@ -1,0 +1,38 @@
+C:\Documents and Settings\Administrator\桌面\TCPSocket\obj\Debug\SocketServer.exe
+C:\Documents and Settings\Administrator\桌面\TCPSocket\obj\Debug\SocketServer.pdb
+C:\Documents and Settings\Administrator\桌面\TCPSocket\bin\Debug\SocketServer.exe
+C:\Documents and Settings\Administrator\桌面\TCPSocket\bin\Debug\SocketServer.pdb
+C:\Documents and Settings\Administrator\桌面\TCPSocket\obj\Debug\ResolveAssemblyReference.cache
+E:\项目\环科院\协议传输\TCPSocket\obj\Debug\SocketServer.exe
+E:\项目\环科院\协议传输\TCPSocket\obj\Debug\SocketServer.pdb
+E:\项目\环科院\协议传输\TCPSocket\obj\Debug\ResolveAssemblyReference.cache
+E:\项目\环科院\协议传输\TCPSocket\bin\Debug\SocketServer.exe
+E:\项目\环科院\协议传输\TCPSocket\bin\Debug\SocketServer.pdb
+E:\项目\环科院\数据传输代码\TCPSocket\obj\Debug\SocketServer.exe
+E:\项目\环科院\数据传输代码\TCPSocket\obj\Debug\SocketServer.pdb
+E:\项目\环科院\数据传输代码\TCPSocket\bin\Debug\SocketServer.exe.config
+E:\Diting\TCPSocket\bin\Debug\SocketServer.exe.config
+E:\Diting\TCPSocket\obj\Debug\SocketServer.exe
+E:\Diting\TCPSocket\obj\Debug\SocketServer.pdb
+E:\Diting\TCPSocket\obj\Debug\ResolveAssemblyReference.cache
+E:\Diting\TCPSocket\bin\Debug\SocketServer.exe
+E:\Diting\TCPSocket\bin\Debug\SocketServer.pdb
+E:\Diting\TCPSocket1\TCPSocket\bin\Debug\SocketServer.exe.config
+E:\Diting\TCPSocket1\TCPSocket\obj\Debug\SocketServer.exe
+E:\Diting\TCPSocket1\TCPSocket\obj\Debug\SocketServer.pdb
+E:\Diting\TCPSocket\TCPSocket\bin\Debug\SocketServer.exe.config
+E:\Diting\TCPSocket\TCPSocket\bin\Debug\SocketServer.exe
+E:\Diting\TCPSocket\TCPSocket\bin\Debug\SocketServer.pdb
+E:\Diting\TCPSocket\TCPSocket\bin\Debug\DBUtility.dll
+E:\Diting\TCPSocket\TCPSocket\bin\Debug\DBUtility.pdb
+E:\Diting\TCPSocket\TCPSocket\obj\Debug\ResolveAssemblyReference.cache
+E:\Diting\TCPSocket\TCPSocket\obj\Debug\SocketServer.exe
+E:\Diting\TCPSocket\TCPSocket\obj\Debug\SocketServer.pdb
+F:\工作\地听\环科院\数据传输代码\传输因子代码\TCPSocket\TCPSocket\bin\Debug\SocketServer.exe.config
+F:\工作\地听\环科院\数据传输代码\传输因子代码\TCPSocket\TCPSocket\obj\Debug\SocketServer.exe
+F:\工作\地听\环科院\数据传输代码\传输因子代码\TCPSocket\TCPSocket\obj\Debug\SocketServer.pdb
+F:\工作\地听\环科院\数据传输代码\传输因子代码\TCPSocket\TCPSocket\bin\Debug\SocketServer.exe
+F:\工作\地听\环科院\数据传输代码\传输因子代码\TCPSocket\TCPSocket\bin\Debug\SocketServer.pdb
+F:\工作\地听\环科院\数据传输代码\传输因子代码\TCPSocket\TCPSocket\bin\Debug\DBUtility.dll
+F:\工作\地听\环科院\数据传输代码\传输因子代码\TCPSocket\TCPSocket\bin\Debug\DBUtility.pdb
+F:\工作\地听\环科院\数据传输代码\传输因子代码\TCPSocket\TCPSocket\obj\Debug\TCPSocket.csprojResolveAssemblyReference.cache

@@ -1,0 +1,10 @@
+C:\SocketServer\SocketServer\obj\Debug\ResolveAssemblyReference.cache
+C:\SocketServer\SocketServer\bin\Debug\SocketServer.exe
+C:\SocketServer\SocketServer\bin\Debug\SocketServer.pdb
+C:\SocketServer\SocketServer\obj\Debug\SocketServer.exe
+C:\SocketServer\SocketServer\obj\Debug\SocketServer.pdb
+E:\RndPointForecastServer\TCPSocket\bin\Debug\SocketServer.exe
+E:\RndPointForecastServer\TCPSocket\bin\Debug\SocketServer.pdb
+E:\RndPointForecastServer\TCPSocket\obj\Debug\ResolveAssemblyReference.cache
+E:\RndPointForecastServer\TCPSocket\obj\Debug\SocketServer.exe
+E:\RndPointForecastServer\TCPSocket\obj\Debug\SocketServer.pdb

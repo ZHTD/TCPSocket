@@ -1,0 +1,10 @@
+bin\Debug\DBUtility.dll
+bin\Debug\DBUtility.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\DBUtility.dll
+obj\Debug\DBUtility.pdb
+bin\Release\DBUtility.dll
+bin\Release\DBUtility.pdb
+obj\Release\ResolveAssemblyReference.cache
+obj\Release\DBUtility.dll
+obj\Release\DBUtility.pdb
