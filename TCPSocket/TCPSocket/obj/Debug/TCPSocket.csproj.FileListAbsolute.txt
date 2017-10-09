@@ -36,3 +36,6 @@ F:\工作\地听\环科院\数据传输代码\传输因子代码\TCPSocket\TCPSo
 F:\工作\地听\环科院\数据传输代码\传输因子代码\TCPSocket\TCPSocket\bin\Debug\DBUtility.dll
 F:\工作\地听\环科院\数据传输代码\传输因子代码\TCPSocket\TCPSocket\bin\Debug\DBUtility.pdb
 F:\工作\地听\环科院\数据传输代码\传输因子代码\TCPSocket\TCPSocket\obj\Debug\TCPSocket.csprojResolveAssemblyReference.cache
+D:\GitHub\TCPSocket\TCPSocket\TCPSocket\bin\Debug\SocketServer.exe.config
+D:\GitHub\TCPSocket\TCPSocket\TCPSocket\obj\Debug\SocketServer.exe
+D:\GitHub\TCPSocket\TCPSocket\TCPSocket\obj\Debug\SocketServer.pdb
